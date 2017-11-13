@@ -1,0 +1,1 @@
+Spring Annotation env and run Feign+Ribbon demo!
